@@ -1,0 +1,5 @@
+# Ignore everything in the data folder
+data/*
+
+# Allow the mnist folder and its contents
+!data/mnist.zip
